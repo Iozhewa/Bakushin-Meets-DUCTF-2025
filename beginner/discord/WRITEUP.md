@@ -16,7 +16,7 @@
 ***
 
 <details>
-  <summary> <em>Doshie's Writeup</em> </summary>
+  <summary> <em>Doshie's Solution</em> </summary>
   Once you're in the DownUnderCTF Discord, you may be tempted to query "DUCTF{" -- as of writing I'm getting 478 results, so let's find a better keyword!<br><br>
 
   Notice author <mark>a_metre</mark> signed themself off... in place of any attachments to the challenge. We'll enter that into the in-built Discord server search bar.<br>
