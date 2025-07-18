@@ -26,14 +26,14 @@
   <summary> <em>Doshie's Solution</em> </summary>
   Always happy to have an image search quest! We'll start on https://images.google.com/ and click on <em>search by image</em> for a file upload. Under "Visual Matches", a promising result comes from the r/melbourne subreddit:<br>
 
-  <img src="" alt="Bin Chicken Island..?"><br>
+  <img src="https://github.com/Iozhewa/Bakushin-Meets-DUCTF-2025/blob/main/osint/Look%20at%20all%20those%20chickens!/bin-chicken-island-part-deux-v0-ci2bvyf3khv91.webp" alt="Bin Chicken Island..?"><br>
   <a href="https://www.reddit.com/r/melbourne/comments/yb8e9d/bin_chicken_island_part_deux/">
     <sub>Note this is an archived post.</sub>
   </a>
 
-  <br>But we haven't yet found a captivity name. Running "bin chicken island" on a plain Google search, we can run Google Maps to verify the location -- the blue cone on the left is a direct match to Coburg Lake Reserve Playground.<br>
+  But we haven't yet found a captivity name. Running "bin chicken island" on a plain Google search, we can run Google Maps to verify the location -- the blue cone on the left is a direct match to Coburg Lake Reserve Playground.<br>
 
-  <img src="" alt="Image of Lake Playground">
+  <img src="https://github.com/Iozhewa/Bakushin-Meets-DUCTF-2025/blob/main/osint/Look%20at%20all%20those%20chickens!/coburg-lake-reserve-murray-road-coburg.jpg" alt="Image of Lake Playground">
 
   <br>Based on the webpage results under Bin Chicken Island, here were some candidates for the flag:<br>
   - Coburg_Lake
