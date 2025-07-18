@@ -18,7 +18,7 @@
 > a_metre
 >
 > Attachments #
-> [LookAtAllThoseChickens.jpg]()
+> [LookAtAllThoseChickens.jpg](https://github.com/Iozhewa/Bakushin-Meets-DUCTF-2025/blob/main/osint/Look%20at%20all%20those%20chickens!/LookAtAllThoseChickens.jpg)
 
 ***
 
